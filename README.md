@@ -44,13 +44,14 @@ The design emphasizes visual impact, interactivity, and clean structure—drawin
 ---
 
 ## 📁 Folder Structure
+```
 
 📁 portfolio/
 ├── index.html # Main HTML structure
 ├── style.css # Styling and animations
 ├── me_casual.jpg # Profile image (can save an image for profile with above file_name)
 
-
+```
 
 
 ---
